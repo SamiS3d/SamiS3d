@@ -4,8 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Cyber%20Security%20Enthusiast;Game%20Developer;Web%20Designer%20%26%20Developer;Robotics%20Lover;CTF%20Player%20%26%20Ethical%20Hacker;Building%20Secure%20Applications;Exploring%20AI%20in%20Cybersecurity;Passionate%20about%20Tech&font=Fira%20Code&center=true&width=600&height=45&color=FAD000&vCenter=true&size=26">
 </a>
 </p>
-👨‍🎓I'm currently studying Intelligent Systems Engineering<br>🫱🏼‍🫲🏼I'm looking to collaborate on a web application based on machine-learning<br>💡I'm currently learning React, and deep neural networks<br>💭ask me about Linux/WSL2, Python, Django<br>👨‍💻fun fact I'm coding at the moment
-
+👨‍🎓I'm currently studying CyberSecurity
 ## 🌐 Socials:
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/SamiS3d#0733) 
