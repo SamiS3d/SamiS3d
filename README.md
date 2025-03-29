@@ -1,7 +1,7 @@
 # 💫 About Me:
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Cyber%20Security%20Enthusiast;Game%20Developer;Web%20Designer%20%26%20Developer;Robotics%20Lover;CTF%20Player%20%26%20Ethical%20Hacker;Building%20Secure%20Applications;Exploring%20AI%20in%20Cybersecurity;Passionate%20about%20Tech&font=Fira%20Code&center=true&width=600&height=45&color=FAD000&vCenter=true&size=26">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Cyber%20Security%20Enthusiast;Game%20Developer;Web%20Designer%20%26%20Developer;Robotics%20Lover;Ethical%20Hacker;Exploring%20AI%20in%20Cybersecurity;Passionate%20about%20Tech&font=Fira%20Code&center=true&width=600&height=45&color=FAD000&vCenter=true&size=26">
 </a>
 </p>
 👨‍🎓I'm currently studying CyberSecurity<br>🎮 I Love Game Dev<br>🖌️ 3D model Blender<br>💬 Ask me about any thing
