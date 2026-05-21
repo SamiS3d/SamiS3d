@@ -5,9 +5,8 @@
   </a>
 </p>
 
-**IoT Developer & Cybersecurity Engineer** at the German Jordanian University (GJU).  
+**IoT Developer & Cybersecurity Engineer** at the German Jordanian University-Nexus Nature.  
 Cybersecurity Graduate from Tafila Technical University.  
-Currently developing **Nexus Nature**.  
 Passionate about bridging the gap between hardware, software, and security.
 
 ---
